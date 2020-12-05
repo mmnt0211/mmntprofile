@@ -43,7 +43,7 @@ ul, li {
   list-style: none;
 }
 .toppage{
-  background-image: url(https://github.com/mmnt0211/mmntprofile/blob/master/8C978948-DC5E-4EE7-B51E-F0787C2E7C40.jpg?raw=true);
+  background-image: url("https://github.com/mmnt0211/mmntprofile/blob/master/8C978948-DC5E-4EE7-B51E-F0787C2E7C40.jpg?raw=true");
   background-repeat:no-repeat;
   background-size: 100% auto;
 }
