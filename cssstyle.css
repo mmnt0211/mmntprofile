@@ -42,11 +42,7 @@ img, video, object {
 ul, li {
   list-style: none;
 }
-.toppage{
-  background-image: url("https://github.com/mmnt0211/mmntprofile/blob/master/8C978948-DC5E-4EE7-B51E-F0787C2E7C40.jpg?raw=true");
-  background-repeat:no-repeat;
-  background-size: 100% auto;
-}
+
 
 .two-column-desc{
 text-align:left;
@@ -280,7 +276,7 @@ thead,.skill-desc-title{
   font-size: 10px;
 }
 
-#works .card-wrapper {
+#works .card-wrapper{
   padding: 20px 0;
   display: -webkit-box;
   display: -ms-flexbox;
